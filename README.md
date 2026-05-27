@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DanMogaka/DanMogaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +21,4 @@ Here are some ideas to get you started:
 - Check out my most recent project at [MovieVerse](https://movieverse-pied.vercel.app/)
 - 📫 Reach me at [My Website - coming soon...](link)
 
-/* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username={my-username}&show_icons=true) */
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username={my-username}&show_icons=true) */ [TODO: implement this soon]-->
