@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on fullstack web/ IOS projects
 - 🌱 Learning backend development currently.
-- Check out my most recent project at [MovieVerse](https://https://movieverse-pied.vercel.app/)
+- Check out my most recent project at [MovieVerse](https://movieverse-pied.vercel.app/)
 - 📫 Reach me at [My Website - coming soon...](link)
 
 /* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username={my-username}&show_icons=true) */
